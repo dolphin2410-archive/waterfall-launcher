@@ -3,7 +3,7 @@ use std::path::Path;
 use std::process::{Command, Stdio};
 use termcolor::Color;
 use tokio::fs;
-use bungee_script::{backup, web, config, cli, server, util::{java, logger, runner}};
+use waterfall_launcher::{backup, web, config, cli, server, util::{java, logger, runner}};
 
 #[cfg(target_os = "windows")]
 fn windows() {
