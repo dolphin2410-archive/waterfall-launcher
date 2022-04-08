@@ -76,4 +76,4 @@ waterfall-launcher.exe --no-update # 서버가 존재하지 않는 경우에만 
 ```
 
 ## Notice
-- Based on waterfall-launcher
+- Based on server-script
